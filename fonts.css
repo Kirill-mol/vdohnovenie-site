@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Inter";
+  font-weight: 400;
+  font-style: normal;
+  src: url("/fonts/inter/Inter_18pt-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-weight: 500;
+  font-style: normal;
+  src: url("/fonts/inter/Inter_18pt-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-weight: 600;
+  font-style: normal;
+  src: url("/fonts/inter/Inter_18pt-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-weight: 700;
+  font-style: normal;
+  src: url("/fonts/inter/Inter_18pt-Bold.ttf");
+}
